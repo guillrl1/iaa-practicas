@@ -46,3 +46,9 @@ Si quiere ejecutar con variables aleatorias, ejecute el programa e indique el nu
 ```bash
 ./bin/inferencia 4 # Por defecto el programa usara un N = 3 si no detecta ni numero de variables ni archivo
 ```
+
+
+## Contenido
+
+- [`P01`](./P01)
+- [`proyecto-pln`](./proyecto-pln)
